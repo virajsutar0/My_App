@@ -9,7 +9,7 @@ All colors MUST be HSL.
 @layer base {
   :root {
     /* Core Brand Colors - Purple & Black Theme */
-    --background: 240 10% 3.9%;
+    --background: 500 10% 3.9%;
     --foreground: 300 20% 98%;
 
     --card: 240 6% 6%;
